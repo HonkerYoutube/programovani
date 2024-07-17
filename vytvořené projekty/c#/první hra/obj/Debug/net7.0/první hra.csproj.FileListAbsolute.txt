@@ -1,0 +1,15 @@
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\bin\Debug\net7.0\první hra.exe
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\bin\Debug\net7.0\první hra.deps.json
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\bin\Debug\net7.0\první hra.runtimeconfig.json
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\bin\Debug\net7.0\první hra.dll
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\bin\Debug\net7.0\první hra.pdb
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.csproj.AssemblyReference.cache
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.GeneratedMSBuildEditorConfig.editorconfig
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.AssemblyInfoInputs.cache
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.AssemblyInfo.cs
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.csproj.CoreCompileInputs.cache
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.dll
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\refint\první hra.dll
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.pdb
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\první hra.genruntimeconfig.cache
+D:\programování\visual studio code\vytvořené projekty\c#\první hra\obj\Debug\net7.0\ref\první hra.dll

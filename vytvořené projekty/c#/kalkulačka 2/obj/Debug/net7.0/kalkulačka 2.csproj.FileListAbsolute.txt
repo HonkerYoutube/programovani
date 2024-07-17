@@ -1,0 +1,10 @@
+D:\programování\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.csproj.AssemblyReference.cache
+D:\programování\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programování\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.AssemblyInfoInputs.cache
+D:\programování\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.AssemblyInfo.cs
+D:\programování\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.csproj.CoreCompileInputs.cache
+D:\programování\visual studio code\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.csproj.AssemblyReference.cache
+D:\programování\visual studio code\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programování\visual studio code\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.AssemblyInfoInputs.cache
+D:\programování\visual studio code\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.AssemblyInfo.cs
+D:\programování\visual studio code\vytvořené projekty\c#\kalkulačka 2\obj\Debug\net7.0\kalkulačka 2.csproj.CoreCompileInputs.cache
